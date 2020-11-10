@@ -1,4 +1,9 @@
-# 1.jdk8源码研读
+# 基本介绍
 
-[https://github.com/kangjianwei/LearningJDK/issues](https://github.com/kangjianwei/LearningJDK/issues)
+JDK源码阅读笔记
+
+
+# 参考
+
+https://github.com/kangjianwei/LearningJDK/issues
 
